@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm a 23-year-old student with a passion for fixing things and all things tech-related. As an IT technician, I'm well-versed in maintaining servers and building them from scratch. I've also written bots in Node.js, and love exploring the world of cybersecurity. With every project I take on, I strive to deliver high-quality results and improve my skills along the way. Looking forward to collaborating and learning from like-minded individuals on GitHub!
 
 <!--
 **KBarbarewicz/KBarbarewicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
